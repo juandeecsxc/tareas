@@ -24,7 +24,7 @@ while True :
         total_final = total - monto_descuento
 
 
-        print("\n--- RESUMEN DE COMPRA ---")
+        print("\n--- RESUMEN DE COMPRA CAMBIADA ----")
         print(f"Producto: {name}")
         print(f"Precio unitario: {precio: .2f}")
         print(f"Cantidad: {cantidad}")
